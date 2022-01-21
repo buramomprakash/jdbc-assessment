@@ -2,7 +2,7 @@ package com.dxc.assessment;
 
 import java.sql.SQLException;
 import java.util.List;
-import com.dxc.model.Author;
+import com.dxc.modal.Author;
 
 /**
  * Hello world!
